@@ -20,15 +20,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming assistant professor in the [Electa](https://www.esat.kuleuven.be/electa) group of the [KU Leuven - Technologiecampus Gent](https://www.kuleuven.be/gent/industrieel-ingenieur),
-which is part of the department of electrical engineering [(ESAT)](https://www.esat.kuleuven.be) of KU Leuven, as well as [EnergyVille](https://energyville.be/).   
-Prior to that, I have been a postdoc and a PhD student at Electa (Leuven) and EnergyVille, in prof. [Dirk Van Hertem](https://www.esat.kuleuven.be/electa/professors/00043846)'s group. 
-During my PhD and postdoc time, I visited the Zuse Institute in Berlin, Germany, and CSIRO Energy in Newcastle (NSW), Australia, for a few months.
+bio:
 
-I am interested in (developing) computational tools and methods for pretty much all-things (electricity) distribution system modelling and optimization. In particular, my main interests and expertise lie in the exploitation of digital measurements to achieve a better understanding of the network state and physical properties, as well as the development of solutions that improve current network management practices. As a general rule, I favor _exact_ methods, unless there really is a strong case for approximations or heuristics, and solutions that are applicable to generic real-life distribution networks.
+I am interested in (developing) computational tools and methods for pretty much all-things (electricity) distribution system modelling and optimization. In particular, my main interests and expertise lie in the exploitation of digital measurements to achieve a better understanding of the network state and physical properties, as well as the development of solutions that improve current network management practices. As a general rule, I favor exact methods, unless there really is a strong case for approximations or heuristics, and solutions that are applicable to generic real-life distribution networks.
 
 interests: Presently, my main research activities include: 
-- system monitoring, through _state estimation_, 
+- system monitoring, through state estimation, 
 - system identification/parameter estimation either in (near-)real-time or with historical data,
 - optimal asset management to increase the penetration of renewable energy resources without causing congestion,
 - technical and policy considerations on smart meters and their capabilities,
