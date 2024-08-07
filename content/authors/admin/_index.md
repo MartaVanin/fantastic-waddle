@@ -27,7 +27,7 @@ During my PhD and postdoc time, I visited the Zuse Institute in Berlin, Germany,
 
 I am interested in (developing) computational tools and methods for pretty much all-things (electricity) distribution system modelling and optimization. In particular, my main interests and expertise lie in the exploitation of digital measurements to achieve a better understanding of the network state and physical properties, as well as the development of solutions that improve current network management practices. As a general rule, I favor _exact_ methods, unless there really is a strong case for approximations or heuristics, and solutions that are applicable to generic real-life distribution networks.
 
-Presently, my main research activities include: 
+interests: Presently, my main research activities include: 
 - system monitoring, through _state estimation_, 
 - system identification/parameter estimation either in (near-)real-time or with historical data,
 - optimal asset management to increase the penetration of renewable energy resources without causing congestion,
